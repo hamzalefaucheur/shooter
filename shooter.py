@@ -29,8 +29,8 @@ display.set_caption("prn")
 
 background = transform.scale(image.load("galaxy.jpg"), (700, 500))
 rocket = transform.scale(image.load("rocket.png"), (150,150))
-x1=300
-y1=300
+x1=400
+y1=400
 
 
 game=True
